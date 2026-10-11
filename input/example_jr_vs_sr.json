@@ -1,0 +1,6 @@
+{
+    "name": "Fibonacci",
+    "language": "Python",
+    "junior_code": "def fib(n):\n    if n <= 1: return n\n    return fib(n-1) + fib(n-2)",
+    "senior_code": "from functools import lru_cache\n\n@lru_cache\ndef fib(n: int) -> int:\n    return n if n < 2 else fib(n-1) + fib(n-2)"
+}

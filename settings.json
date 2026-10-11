@@ -1,0 +1,37 @@
+{
+  "project1_jr_vs_sr": {
+    "theme": "Dracula",
+    "fmt": "YouTube (16:9)",
+    "wpm": 100,
+    "j_wpm": 90,
+    "s_wpm": 130
+  },
+  "project2_multi_window": {
+    "theme": "Dracula",
+    "fmt": "YouTube (16:9)",
+    "wpm": 100,
+    "j_wpm": 90,
+    "s_wpm": 130
+  },
+  "project3_codetyping": {
+    "theme": "Dracula",
+    "fmt": "YouTube (16:9)",
+    "wpm": 100,
+    "j_wpm": 90,
+    "s_wpm": 130
+  },
+  "project4_text": {
+    "theme": "Dracula",
+    "fmt": "YouTube (16:9)",
+    "wpm": 100,
+    "j_wpm": 90,
+    "s_wpm": 130
+  },
+  "project5_emoji_ascii": {
+    "theme": "Dracula",
+    "fmt": "YouTube (16:9)",
+    "wpm": 100,
+    "j_wpm": 90,
+    "s_wpm": 130
+  }
+}
